@@ -1,2 +1,28 @@
 body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+}
+
+h3 {
+  font-size: 24px;
+  color: #f9faf8;
+  padding-left: 200px;
+}
+
+a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1F2937;
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding-right: 200px;
 }
