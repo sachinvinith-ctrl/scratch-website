@@ -97,3 +97,13 @@ button {
   justify-content: center;
   gap: 50px;
 }
+
+.under-box {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.box-para {
+ width: 150px;
+}
