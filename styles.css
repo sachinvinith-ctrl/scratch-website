@@ -74,3 +74,26 @@ button {
 .button-1 {
   margin-top: 10px;
 }
+
+.info {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900px;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
