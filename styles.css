@@ -14,6 +14,26 @@ a {
   color: #e5e7eb;
 }
 
+h1 {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 900px;
+  margin: 0;
+}
+
+button {
+  background-color: #3882f6;
+  color: white;
+  font-weight: "900";
+  width: 105px;
+  border-radius: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: none;
+}
+
+
+
 .top {
   display: flex;
   justify-content: space-between;
@@ -25,4 +45,32 @@ a {
   gap: 20px;
   align-items: center;
   padding-right: 200px;
+}
+
+.after-header {
+  display: flex;
+  flex-direction: column;
+  background-color: #1F2937;
+  color: #f9faf8;
+  padding-left: 200px;
+  max-width: 450px;
+}
+
+.hero-text {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 0px;
+}
+
+.after-header-with-img {
+  display: flex;
+  background-color: #1F2937;
+  padding-right: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  gap: 100px;
+}
+
+.button-1 {
+  margin-top: 10px;
 }
