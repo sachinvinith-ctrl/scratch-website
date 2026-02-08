@@ -107,3 +107,22 @@ button {
 .box-para {
  width: 150px;
 }
+
+.quote-section {
+  background-color: #e5e7eb;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.quote {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 300;
+}
+
+.said-by {
+  font-weight: bold;
+  padding-left: 500px;
+}
